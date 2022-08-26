@@ -1,0 +1,19 @@
+﻿ID,Block_Name,Capacity,Occupied,Room,Occupancy_Level,Latitude,Longitude
+01,Interdiscplinary life sciences,56,52,108A,High,39.253965,-76.714046
+02,IT Building,45,20,Floor 1,Low,39.254023,-76.711109
+03,Fine Arts Building,26,12,201,Low,39.255128,-76.713478
+04,Administration Blog,100,50,311,Medium,39.253799,-76.713554
+05,Physics bulding,45,30,105A,High,39.254347,-76.709628
+06,Library,60,30,211,Medium,39.256449,76.711709
+07,Star Bucks,30,10,Café,Low,39.254316,-76.713201
+08,Center for Well Being,45,40,300,High,39.254316,-76.713201
+09,Erickson Hall,250,110,Floor 3,Medium,39.25616,-76.709059
+10,Sherman Hall,100,45,Floor 1-2,Low,39.257097,-76.710196
+11,Public Policy Building,25,10,PCAM,Low,39.255161,-76.709135
+12,RAC,239,50,Floor 2,Low,39.252868,-76.712567
+13,Sondheim Hall ,45,12,101,Low,39.253998,-76.712471
+14,Engineering Building,50,25,102B,Medium,39.254571,-76.713908
+15,Commons,60,20,Balcony,Low,39.25492,-76.710927
+16,Susquehana Hall,25,23,203E,High,39.255734,-76.708491
+17,Harbor Hall,23,10,Floor 1,Low,39.257197,-76.707954
+18,Martin Schwartz hall,24,2,001E,Low,39.255261,-76.711879
